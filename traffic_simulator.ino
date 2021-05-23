@@ -1,3 +1,12 @@
+/*********************************************************************************************************************
+ * 
+ * Author:    Aly Khan Nuruddin
+ * Date:      May 11, 2021
+ * Purpose:   This program permits the user to simulate a real-time traffic-light by intermittently toggling the start
+ *            and end states of three LEDS as depicted in TinkerCAD, an open-source hardware prototyping initiative.
+ *            
+ *********************************************************************************************************************/
+
 int ledGreen = 4;                                 // Define the Digital Pin connection for the output voltage of the Green LED.
 int ledYellow = 3;                                // Define the Digital Pin connection for the output voltage of the Yellow LED.
 int ledRed = 2;                                   // Define the Digital Pin connection for the output voltage of the Red LED.
